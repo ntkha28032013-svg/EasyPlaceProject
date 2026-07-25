@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "easyplace",
+  "version": "1.0.0",
+  "name": "EasyPlace",
+  "description": "Mod tự động đặt block",
+  "authors": ["Me"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/easyplace/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mod.EasyPlace"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "~1.20.1"
+  }
+}
